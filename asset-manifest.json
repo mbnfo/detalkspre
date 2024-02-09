@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/detalkspre/static/css/main.031c10e5.css",
-    "main.js": "/detalkspre/static/js/main.97c12b8e.js",
+    "main.js": "/detalkspre/static/js/main.f7937889.js",
     "index.html": "/detalkspre/index.html",
     "main.031c10e5.css.map": "/detalkspre/static/css/main.031c10e5.css.map",
-    "main.97c12b8e.js.map": "/detalkspre/static/js/main.97c12b8e.js.map"
+    "main.f7937889.js.map": "/detalkspre/static/js/main.f7937889.js.map"
   },
   "entrypoints": [
     "static/css/main.031c10e5.css",
-    "static/js/main.97c12b8e.js"
+    "static/js/main.f7937889.js"
   ]
 }
